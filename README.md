@@ -44,7 +44,9 @@
 
 ### 信息：
 
-下载地址：https://github.com/zhangsanbin/Tolerance/
+项目地址：https://github.com/zhangsanbin/Tolerance/
+
+下载地址：https://github.com/zhangsanbin/Tolerance/releases
 
 作者：张三宾  邮箱：andy@doipc.com
 
