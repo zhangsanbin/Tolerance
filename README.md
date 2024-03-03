@@ -18,9 +18,8 @@
 
 ## 启动它
 
-![image](1.png)
+![image](https://github.com/zhangsanbin/Tolerance/assets/7435666/1f4b85dc-069a-4638-b4d8-436f7111bb3a)
 
-![image](2.png)
 
 ## 详细说明
 
